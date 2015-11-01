@@ -45,6 +45,9 @@ public class Main {
 
         for(i = 0; i < 10; ++i) {
             System.out.println(var6[i]);
+
+
+            System.out.println("Hello from imac");
         }
 
 

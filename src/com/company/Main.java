@@ -6,6 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+
+
         int[] randomNumbers = new int[100];
         Random rand = new Random();
 
